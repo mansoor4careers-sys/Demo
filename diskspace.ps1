@@ -15,3 +15,5 @@ foreach ($drive in Get-PSDrive -PSProvider FileSystem)
 }
 
 disk-spacecheck
+
+# Script ends here
